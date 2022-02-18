@@ -27,6 +27,7 @@
   2. The month of December varies much more than June with minimum temperatures of 56 and maximum of 83.  This tells us to expect sales to flucuate greatly in the month of December.  
 
 ![precip_chart.png](https://github.com/GrahamNeal13/surfs_up/blob/main/precip_chart.png)
+
   3. The Precipitation chart above shows that we can see that June and December are low precipitation months but we can expect heavier rainfall in Spetember and March.  This means that while ice cream sales may slow the sale of surf accessories may increase.  
 
 
